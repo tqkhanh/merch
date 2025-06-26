@@ -2,6 +2,7 @@
   {
     "asin": "B0F7Y35P8M",
     "account": 2,
+    "bestseller month": "june",
     "status": "LIVE",
     "title": "Breaking Every Chain Since 1865 Juneteenth T-Shirt",
     "thumbnail": "https://m.media-amazon.com/images/I/71n7VWldTTL._AC_UL320_.jpg",
@@ -13,18 +14,19 @@
   {
     "asin": "B0F48FVQ8M",
     "account": 3,
+    "bestseller month": "may",
     "status": "LIVE",
-    "title": "Gulf of Mexico turtle BE SALTY AND RESIST T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/614ESsWIfxL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/Gulf-Mexico-turtle-RESIST-T-Shirt/dp/B0F48FVQ8M/",
-    "rating": 4.5,
-    "reviews": 59,
-    "price": "$16.99"
+    "title": "Calorie Absorbing Fiber Sponge",
+    "thumbnail": "https://m.media-amazon.com/images/I/61Alu5G0+xL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/dp/B0DKQ56JRD/",
+    "rating": 3.6,
+    "reviews": 43,
+    "price": "$56.00"
   },
-
   {
     "asin": "B0F7Y35P8M",
     "account": 2,
+    "bestseller month": "june",
     "status": "LIVE",
     "title": "Breaking Every Chain Since 1865 Juneteenth T-Shirt",
     "thumbnail": "https://m.media-amazon.com/images/I/71n7VWldTTL._AC_UL320_.jpg",
@@ -36,12 +38,37 @@
   {
     "asin": "B0F48FVQ8M",
     "account": 3,
+    "bestseller month": "may",
     "status": "LIVE",
-    "title": "Gulf of Mexico turtle BE SALTY AND RESIST T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/614ESsWIfxL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/Gulf-Mexico-turtle-RESIST-T-Shirt/dp/B0F48FVQ8M/",
-    "rating": 4.5,
-    "reviews": 59,
-    "price": "$16.99"
+    "title": "Calorie Absorbing Fiber Sponge",
+    "thumbnail": "https://m.media-amazon.com/images/I/61Alu5G0+xL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/dp/B0DKQ56JRD/",
+    "rating": 3.6,
+    "reviews": 43,
+    "price": "$56.00"
+  },
+  {
+    "asin": "B0F7Y35P8M",
+    "account": 2,
+    "bestseller month": "june",
+    "status": "LIVE",
+    "title": "Breaking Every Chain Since 1865 Juneteenth T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71n7VWldTTL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Breaking-Every-Chain-1865-Juneteenth/dp/B0F7Y35P8M/",
+    "rating": 4.0,
+    "reviews": 2,
+    "price": "$15.99"
+  },
+  {
+    "asin": "B0F48FVQ8M",
+    "account": 3,
+    "bestseller month": "may",
+    "status": "LIVE",
+    "title": "Calorie Absorbing Fiber Sponge",
+    "thumbnail": "https://m.media-amazon.com/images/I/61Alu5G0+xL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/dp/B0DKQ56JRD/",
+    "rating": 3.6,
+    "reviews": 43,
+    "price": "$56.00"
   }
 ]
