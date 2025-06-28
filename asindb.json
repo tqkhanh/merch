@@ -60,18 +60,6 @@
     "price": "$21.21"
   },
   {
-    "asin": "B097Y6WTHJ",
-    "account": 7,
-    "bestseller month": "may",
-    "status": "LIVE",
-    "title": "HON Volt Armless Chair, Ergonomic Adjustable Center-Tilt Recline, Fabric Back and Seat, Swivel Desk Chair, Black",
-    "thumbnail": "https://m.media-amazon.com/images/I/715NezwXd6L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/dp/B001MS6T8G/",
-    "rating": 4.4,
-    "reviews": 1114,
-    "price": "$148.69"
-  },
-  {
     "asin": "B0D7TVV45P",
     "account": 9,
     "bestseller month": "oct",
@@ -96,15 +84,39 @@
     "price": "$21.99"
   },
   {
+    "asin": "B0DF5TNCS3",
+    "account": 3,
+    "bestseller month": "may",
+    "status": "LIVE",
+    "title": "Lỗi",
+    "thumbnail": "https://m.media-amazon.com/images/I/71ENbzc148L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Cement-Cursed-Funny-Oddly-Specific/dp/B0DF5TNCS3/",
+    "rating": 5.0,
+    "reviews": 2,
+    "price": "$23.99"
+  },
+  {
     "asin": "B0D8TVV45P",
     "account": 3,
     "bestseller month": "dec",
     "status": "LIVE",
-    "title": "Rage Is Consuming Me Silly Staring Cat Meme T-Shirt",
+    "title": "Lỗi",
     "thumbnail": "https://m.media-amazon.com/images/I/61NejaIVbFL._AC_UL320_.jpg",
     "link": "https://www.amazon.com/Consuming-Silly-Staring-Cat-T-Shirt/dp/B0D8TVV45P/",
     "rating": 4.5,
     "reviews": 12,
     "price": "$19.84"
+  },
+  {
+    "asin": "B097Y6WTHJ",
+    "account": 7,
+    "bestseller month": "may",
+    "status": "LIVE",
+    "title": "HON Volt Armless Chair, Ergonomic Adjustable Center-Tilt Recline, Fabric Back and Seat, Swivel Desk Chair, Black",
+    "thumbnail": "https://m.media-amazon.com/images/I/715NezwXd6L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/dp/B001MS6T8G/",
+    "rating": 4.4,
+    "reviews": 1114,
+    "price": "$148.69"
   }
 ]
