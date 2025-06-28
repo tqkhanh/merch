@@ -72,18 +72,6 @@
     "price": "$148.69"
   },
   {
-    "asin": "B0B2V3JRLL",
-    "account": 8,
-    "bestseller month": "july",
-    "status": "LIVE",
-    "title": "Chicken Nuggets Heavy Metal World Tour Hardcore Music T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/71jJquHdH3L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/Chicken-Nuggets-Metal-Hardcore-T-Shirt/dp/B0B2V3JRLL/",
-    "rating": 4.6,
-    "reviews": 111,
-    "price": "$21.99"
-  },
-  {
     "asin": "B0D7TVV45P",
     "account": 9,
     "bestseller month": "oct",
@@ -96,15 +84,27 @@
     "price": "$17.84"
   },
   {
-    "asin": "B0D7TVV45PN",
-    "account": 9,
-    "bestseller month": "oct",
+    "asin": "B0B2V3JRLL",
+    "account": 8,
+    "bestseller month": "july",
+    "status": "LIVE",
+    "title": "Chicken Nuggets Heavy Metal World Tour Hardcore Music T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71jJquHdH3L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Chicken-Nuggets-Metal-Hardcore-T-Shirt/dp/B0B2V3JRLL/",
+    "rating": 4.6,
+    "reviews": 111,
+    "price": "$21.99"
+  },
+  {
+    "asin": "B0D8TVV45P",
+    "account": 3,
+    "bestseller month": "dec",
     "status": "LIVE",
     "title": "Rage Is Consuming Me Silly Staring Cat Meme T-Shirt",
     "thumbnail": "https://m.media-amazon.com/images/I/61NejaIVbFL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/Consuming-Silly-Staring-Cat-T-Shirt/dp/B0D7TVV45PN/",
-    "rating": 4.7,
-    "reviews": 122,
-    "price": "$17.84"
+    "link": "https://www.amazon.com/Consuming-Silly-Staring-Cat-T-Shirt/dp/B0D8TVV45P/",
+    "rating": 4.5,
+    "reviews": 12,
+    "price": "$19.84"
   }
 ]
