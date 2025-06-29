@@ -3,7 +3,8 @@
     "asin": "B0F8NBBRQJ",
     "account": 3,
     "bestseller month": [
-      "jun"
+      "jun",
+      "evergreen"
     ],
     "title": "No Kings In America We The People Political Shirt Men Women T-Shirt",
     "brand": "The Freedom Voice Political shirt for Mens Womens",
@@ -19,7 +20,16 @@
         "status": "LIVE",
         "rating": 4.1,
         "reviews": 9
+      },
+      {
+        "timecrawl": "2025-06-30",
+        "rank": "77331",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": 4.5,
+        "reviews": 10
       }
+
     ]
   },
   {
