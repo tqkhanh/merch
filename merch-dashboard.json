@@ -14,22 +14,53 @@
     "flag": 1,
     "detail": [
       {
-        "timecrawl": "2025-06-29",
+        "timecrawl": "2025-06-30",
         "rank": "87331",
         "price": "$16.99",
         "status": "LIVE",
         "rating": 4.1,
-        "reviews": 9
+        "reviews": 10
       },
       {
-        "timecrawl": "2025-06-30",
+        "timecrawl": "2025-06-29",
         "rank": "77331",
         "price": "$16.99",
         "status": "LIVE",
         "rating": 4.5,
-        "reviews": 10
+        "reviews": 9
+      },
+      {
+        "timecrawl": "2025-06-28",
+        "rank": "80331",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": 4.5,
+        "reviews": 9
+      },
+      {
+        "timecrawl": "2025-06-27",
+        "rank": "81331",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": 4.5,
+        "reviews": 9
+      },
+      {
+        "timecrawl": "2025-06-26",
+        "rank": "77331",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": 4.5,
+        "reviews": 9
+      },
+      {
+        "timecrawl": "2025-06-25",
+        "rank": "107331",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": 4.5,
+        "reviews": 9
       }
-
     ]
   },
   {
