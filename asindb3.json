@@ -1,45 +1,300 @@
 [
   {
-    "asin": "B0FFHRHLLH",
-    "account": 2,
+    "asin": "B0F8NBBRQJ",
+    "account": 3,
+    "bestseller month": [
+      "jun"
+    ],
+    "status": "LIVE",
+    "title": "No Kings In America We The People Political Shirt Men Women T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71gC6Zoy64L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Kings-America-People-Political-T-Shirt/dp/B0F8NBBRQJ/",
+    "rating": 4.1,
+    "reviews": 9,
+    "price": "$16.99"
+  },
+  {
+    "asin": "B0FBL66RNM",
+    "account": 25,
+    "bestseller month": [
+      "jun"
+    ],
+    "status": "LIVE",
+    "title": "Rejecting Kings Since 1776 Patriotic USA Flag 4th Of July T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/61ZxfMq-GkL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Rejecting-Kings-Since-1776-Patriotic/dp/B0FBL66RNM/",
+    "rating": 5.0,
+    "reviews": 4,
+    "price": "$17.99"
+  },
+  {
+    "asin": "B0F8N7L9FF",
+    "account": 3,
+    "bestseller month": [
+      "jun"
+    ],
+    "status": "LIVE",
+    "title": "Funny No Kings In America Men Women T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/61tOcD4hfXL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Funny-Kings-America-Women-T-Shirt/dp/B0F8N7L9FF/",
+    "rating": 5.0,
+    "reviews": 3,
+    "price": "$17.99"
+  },
+  {
+    "asin": "B0FBRVR7FP",
+    "account": 28,
+    "bestseller month": [
+      "jun"
+    ],
+    "status": "LIVE",
+    "title": "No Kings In America We The People men women T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/61EyCcp2-KL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/No-Kings-America-We-People/dp/B0FBRVR7FP/",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "$17.99"
+  },
+  {
+    "asin": "B0FBL4VQL3",
+    "account": 25,
+    "bestseller month": [
+      "jun"
+    ],
+    "status": "LIVE",
+    "title": "Rejecting Kings Since 1776 American Vintage Flag T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71KnggxKezL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Rejecting-Since-1776-American-Vintage/dp/B0FBL4VQL3/",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "$14.99"
+  },
+  {
+    "asin": "B0F8P63G5C",
+    "account": 21,
+    "bestseller month": [
+      "may",
+      "jun",
+      "evergreen"
+    ],
+    "status": "LIVE",
+    "title": "First Pope from America In Chicago Da Pope T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71QHlOYFToL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/First-Pope-America-Chicago-T-Shirt/dp/B0F8P63G5C/",
+    "rating": 3.0,
+    "reviews": 2,
+    "price": "$16.99"
+  },
+  {
+    "asin": "B0F8VQ8W6T",
+    "account": 25,
     "bestseller month": [
       "evergreen"
     ],
     "status": "LIVE",
-    "title": "Iranian Shirt Make Iran Great Again Emblem Of Iran MIGA T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/61hfPsrAGoL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/Make-Iran-Great-Again-Emblem/dp/B0FFHRHLLH/",
+    "title": "All The Pretty Girls Walk Like This Softball Player Women T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71oxoZ3-ZIL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Pretty-Girls-Softball-Women-T-Shirt/dp/B0F8VQ8W6T/",
     "rating": "N/A",
     "reviews": "N/A",
-    "price": "$14.99"
+    "price": "$16.99"
   },
   {
-    "asin": "B0FFHS461F",
-    "account": 2,
+    "asin": "B0DCS2D8NP",
+    "account": 13,
+    "bestseller month": [
+      "evergreen"
+    ],
+    "status": "LIVE",
+    "title": "Hang On Let Me Overthink This Funny Raccoon Sarcastic T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71Q3wfKP3eL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Overthink-Funny-Raccoon-Sarcastic-T-Shirt/dp/B0DCS2D8NP/",
+    "rating": 4.8,
+    "reviews": 7,
+    "price": "$15.29"
+  },
+  {
+    "asin": "B0DJFL9Y7R",
+    "account": 5,
+    "bestseller month": [
+      "evergreen"
+    ],
+    "status": "LIVE",
+    "title": "Weird Teachers Build Character Raccoon Teacher Appreciation T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/716JchoDA5L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Weird-Teachers-Character-Teacher-Appreciation/dp/B0DJFL9Y7R/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$15.29"
+  },
+  {
+    "asin": "B0F8VMXMBD",
+    "account": 21,
+    "bestseller month": [
+      "evergreen"
+    ],
+    "status": "LIVE",
+    "title": "Can I Pet Dat Dawg Hiker Animal Lover Funny Bear Meme T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71y8Crh5seL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Can-Pet-Hiker-Animal-T-Shirt/dp/B0F8VMXMBD/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$17.99"
+  },
+  {
+    "asin": "B0F8JGX5KS",
+    "account": 21,
+    "bestseller month": [
+      "evergreen"
+    ],
+    "status": "LIVE",
+    "title": "Pearls are always appropriate jackie kennedy T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/61ff5Sudh7L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/are-always-appropriate-kennedy-T-Shirt/dp/B0F8JGX5KS/",
+    "rating": 4.0,
+    "reviews": 2,
+    "price": "$16.99"
+  },
+  {
+    "asin": "B0DRNFRRX2",
+    "account": 23,
+    "bestseller month": [
+      "evergreen"
+    ],
+    "status": "LIVE",
+    "title": "Bigfoot And Alien Campfire Gifts For Outdoor Lovers T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71REsEUMrbL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Bigfoot-Alien-Campfire-Outdoor-T-Shirt/dp/B0DRNFRRX2/",
+    "rating": 4.6,
+    "reviews": 3,
+    "price": "$15.99"
+  },
+  {
+    "asin": "B0FBRVTVYK",
+    "account": 28,
     "bestseller month": [
       "jun",
       "evergreen"
     ],
     "status": "LIVE",
-    "title": "Funny No Other Dad Can Measure Up Father day T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/71VRH2cyH4L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/Funny-Other-Dad-Can-Measure/dp/B0FFHS461F/",
+    "title": "When Injustice Becomes Law Resistance Becomes Duty RBG T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71ZE9X76z3L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Injustice-Becomes-Resistance-RBG-T-Shirt/dp/B0FBRVTVYK/",
     "rating": "N/A",
     "reviews": "N/A",
-    "price": "$14.99"
+    "price": "$16.99"
   },
   {
-    "asin": "B0FFHTGJZ7",
-    "account": 2,
+    "asin": "B0F8Q66X31",
+    "account": 21,
     "bestseller month": [
       "evergreen"
     ],
     "status": "LIVE",
-    "title": "Living The Dream One Bad Decision At a Time Funny Raccoon T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/71Z+fjEdRCL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/Living-Dream-Decision-Raccoon-T-Shirt/dp/B0FFHTGJZ7/",
+    "title": "Vintage Funny The Only Squat I'm Doin' Is Diddly Frog Meme T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/61wAVpxNN1L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Vintage-Funny-Squat-Diddly-T-Shirt/dp/B0F8Q66X31/",
     "rating": "N/A",
     "reviews": "N/A",
-    "price": "$14.99"
+    "price": "$15.99"
+  },
+  {
+    "asin": "B0F88FYS16",
+    "account": 21,
+    "bestseller month": [
+      "jul",
+      "evergreen"
+    ],
+    "status": "LIVE",
+    "title": "First Of All I'm A Delight Sarcastic funny Racoon T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71YlFKfmNvL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/First-Delight-Sarcastic-Racoon-T-Shirt/dp/B0F88FYS16/",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "$15.99"
+  },
+  {
+    "asin": "B0F8VHBZNL",
+    "account": 28,
+    "bestseller month": [
+      "jul"
+    ],
+    "status": "LIVE",
+    "title": "Red White and Feral Raccoon Funny USA 4th of July Boys Girls T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71Akpg1fflL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Raccoon-Funny-4th-July-T-Shirt/dp/B0F8VHBZNL/",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "$18.99"
+  },
+  {
+    "asin": "B0F7G9HT1W",
+    "account": 3,
+    "bestseller month": [
+      "jun"
+    ],
+    "status": "LIVE",
+    "title": "Juneteenth Celebrate Black Freedom 1865 History Month T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/61-UAqGtm-L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Juneteenth-Celebrate-Freedom-History-T-Shirt/dp/B0F7G9HT1W/",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "$16.79"
+  },
+  {
+    "asin": "B0F7GG5ZNS",
+    "account": 10,
+    "bestseller month": [
+      "jun"
+    ],
+    "status": "LIVE",
+    "title": "Breaking Every Chain Since 1865 Women Men Juneteenth Freedom T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71acteXL6bL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Breaking-Every-Chain-Juneteenth-Freedom/dp/B0F7GG5ZNS/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$16.79"
+  },
+  {
+    "asin": "B0F7GHYH82",
+    "account": 20,
+    "bestseller month": [
+      "jun"
+    ],
+    "status": "LIVE",
+    "title": "Juneteenth Womens Black Queen Nutritional Facts Freedom Day T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/61FRwZiULzL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Juneteenth-Black-Nutritional-Freedom-T-Shirt/dp/B0F7GHYH82/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$16.79"
+  },
+  {
+    "asin": "B0F7GHZ12B",
+    "account": 21,
+    "bestseller month": [
+      "jun"
+    ],
+    "status": "LIVE",
+    "title": "Juneteenth Celebrating Black Freedom 1865 African American T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71WCaqRHSEL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Juneteenth-Celebrating-Black-Freedom-American/dp/B0F7GHZ12B/",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "$16.79"
+  },
+  {
+    "asin": "B0F7HYLHVP",
+    "account": 11,
+    "bestseller month": [
+      "jun"
+    ],
+    "status": "LIVE",
+    "title": "Funny Bigfoot Dad A Dad Like Me Is Hard To Find Father's Day T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71GuPiYjh9L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Funny-Bigfoot-Fathers-Day-T-Shirt/dp/B0F7HYLHVP/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$16.99"
   }
 ]
