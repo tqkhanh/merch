@@ -13,6 +13,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "3554368",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "3541453",
         "price": "$15.99",
@@ -131,6 +139,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71jKpaOxvAL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "4923991",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "4923543",
@@ -251,6 +267,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "5943050",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": 4,
+        "reviews": 1
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "5942802",
         "price": "$15.99",
@@ -369,6 +393,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71z-fweKvsL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "4071261",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": 4.5,
+        "reviews": 2
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "4066066",
@@ -489,6 +521,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2147263",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2041913",
         "price": "$14.99",
@@ -607,6 +647,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71WxymnNNHL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "592435",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 5
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "676412",
@@ -727,6 +775,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "699004",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "799247",
         "price": "$14.99",
@@ -845,6 +901,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/713h-8Ous+L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "2741872",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "2634333",
@@ -966,6 +1030,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "517087",
+        "price": "$18.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "493066",
         "price": "$18.99",
@@ -1084,6 +1156,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61dKSY51b8L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1669400",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1581515",
@@ -1204,6 +1284,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1149146",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1117975",
         "price": "$17.99",
@@ -1322,6 +1410,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61PKayp2HKL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "707960",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "530205",
@@ -1442,6 +1538,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "861661",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1448533",
         "price": "$14.99",
@@ -1560,6 +1664,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/7151iBdj27L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "926212",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "2089467",
@@ -1680,6 +1792,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "387317",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "300534",
         "price": "$14.99",
@@ -1798,6 +1918,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71NWQ36L05L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "4102308",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "3973927",
@@ -1918,6 +2046,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1881423",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1786437",
         "price": "$14.99",
@@ -2036,6 +2172,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61HNpt5WkVL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "562266",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "536175",
@@ -2156,6 +2300,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "3645317",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "3524979",
         "price": "$17.99",
@@ -2274,6 +2426,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61VJrAAE4KL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1691158",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1402484",
@@ -2394,6 +2554,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2150686",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2054143",
         "price": "$14.99",
@@ -2512,6 +2680,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/710zCvhTZPL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1147026",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1037150",
@@ -2632,6 +2808,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "3120058",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2999490",
         "price": "$14.99",
@@ -2750,6 +2934,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/7170WoinefL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "850084",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1584233",
@@ -2871,6 +3063,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1319387",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 7
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1162038",
         "price": "$16.99",
@@ -2989,6 +3189,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/611rkVczsXL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "2119728",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "2090853",
@@ -3109,6 +3317,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "855566",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": 3.6,
+        "reviews": 8
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "676622",
         "price": "$16.99",
@@ -3227,6 +3443,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71zkDLi43kL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "3577081",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": 2,
+        "reviews": 1
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "3569268",
@@ -3347,6 +3571,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "575801",
+        "price": "$15.29",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 4
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "581133",
         "price": "$15.29",
@@ -3465,6 +3697,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71pnD4nOIBL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "3370669",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "3361206",
@@ -3585,6 +3825,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1880313",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 2
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1849310",
         "price": "$17.99",
@@ -3703,6 +3951,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71nH0GqEhbL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1635047",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1422320",
@@ -3823,6 +4079,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2480643",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 3
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2462300",
         "price": "$15.99",
@@ -3941,6 +4205,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71+qvTEW3WL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "2948982",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": 4,
+        "reviews": 1
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "2938859",
@@ -4061,6 +4333,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "520782",
+        "price": "$15.29",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 4
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "473434",
         "price": "$15.29",
@@ -4179,6 +4459,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71om-lhuMjL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1529112",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": 2,
+        "reviews": 1
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1380740",
@@ -4299,6 +4587,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "3637712",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "3630487",
         "price": "$17.99",
@@ -4417,6 +4713,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71IJw1-vv6L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "2931389",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": 3.8,
+        "reviews": 3
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "2921365",
@@ -4537,6 +4841,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1420358",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": 2,
+        "reviews": 1
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1187784",
         "price": "$15.99",
@@ -4655,6 +4967,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/B1pppR4gVKL._CLa%7C2140%2C2000%7CA1%2BXWuIeuzL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_SX466_.png",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "2528675",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": 3,
+        "reviews": 3
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "2520896",
@@ -4775,6 +5095,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "3342904",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": 4.5,
+        "reviews": 2
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "3333666",
         "price": "$17.99",
@@ -4893,6 +5221,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71cakABjV1L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1646027",
+        "price": "$15.29",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 7
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1610998",
@@ -5013,6 +5349,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2519696",
+        "price": "$15.29",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 3
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2502562",
         "price": "$15.29",
@@ -5131,6 +5475,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/713xFd9xfcL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "2287732",
+        "price": "$15.29",
+        "status": "LIVE",
+        "rating": 4.5,
+        "reviews": 2
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "2270179",
@@ -5251,6 +5603,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2728968",
+        "price": "$15.29",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2730765",
         "price": "$15.29",
@@ -5369,6 +5729,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61G4dGyY-aL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "2524473",
+        "price": "$15.29",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "2528704",
@@ -5489,6 +5857,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": 4.7,
+        "reviews": 4
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$17.99",
@@ -5607,6 +5983,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71J8ytDAd2L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "2609543",
+        "price": "$15.29",
+        "status": "LIVE",
+        "rating": 3,
+        "reviews": 3
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "2593905",
@@ -5727,6 +6111,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2844545",
+        "price": "$15.29",
+        "status": "LIVE",
+        "rating": 4,
+        "reviews": 1
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2830809",
         "price": "$15.29",
@@ -5845,6 +6237,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71869rXHYOL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1108147",
+        "price": "$15.29",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "895337",
@@ -5966,6 +6366,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2432630",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2400933",
         "price": "$17.99",
@@ -6084,6 +6492,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61OZiCEEIlL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "3378158",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "3369317",
@@ -6205,6 +6621,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2253129",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2213510",
         "price": "$17.99",
@@ -6323,6 +6747,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71il2ErNatL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "4000162",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "3994761",
@@ -6443,6 +6875,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "4075445",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "4070240",
         "price": "$17.99",
@@ -6561,6 +7001,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71jFHFtn12L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "3732215",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "3722279",
@@ -6681,6 +7129,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1858976",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1643183",
         "price": "$17.99",
@@ -6799,6 +7255,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71A8AMJY0EL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "3310257",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "3344633",
@@ -6919,6 +7383,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2941654",
+        "price": "$15.29",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2929916",
         "price": "$15.29",
@@ -7037,6 +7509,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71y9340hcVL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "3460111",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "3449112",
@@ -7157,6 +7637,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "3638506",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "3629450",
         "price": "$17.99",
@@ -7275,6 +7763,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71mRk+jYsmL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "4012633",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "4006598",
@@ -7395,6 +7891,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "4382090",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "4375738",
         "price": "$17.99",
@@ -7513,6 +8017,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71J7CXBoMwL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "7859910",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "7857402",
@@ -7633,6 +8145,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "5399430",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "5398250",
         "price": "$17.99",
@@ -7751,6 +8271,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71v4niG5wVL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "10068819",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": 4,
+        "reviews": 1
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "10065297",
@@ -7871,6 +8399,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1789238",
+        "price": "$15.29",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1744843",
         "price": "$15.29",
@@ -7989,6 +8525,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71jwr4+DOfL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1047567",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "775730",
@@ -8109,6 +8653,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "3014139",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2889837",
         "price": "$14.99",
@@ -8227,6 +8779,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61gYEpAoIbL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "692500",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "474435",
@@ -8347,6 +8907,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71gC6Zoy64L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "258339",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": 4.1,
+        "reviews": 15
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "187655",
@@ -8499,6 +9067,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "247918",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 9
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "235970",
         "price": "$17.99",
@@ -8617,6 +9193,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61tOcD4hfXL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "334055",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 6
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "386599",
@@ -8737,6 +9321,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1082512",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 2
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1062926",
         "price": "$17.99",
@@ -8855,6 +9447,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71KnggxKezL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "501836",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "575716",
@@ -8977,6 +9577,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "",
+        "price": "",
+        "status": "DIE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "",
         "price": "",
@@ -9095,6 +9703,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71oxoZ3-ZIL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "795055",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": 4,
+        "reviews": 1
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "671833",
@@ -9215,6 +9831,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "300552",
+        "price": "$15.29",
+        "status": "LIVE",
+        "rating": 4.8,
+        "reviews": 8
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "310296",
         "price": "$15.29",
@@ -9333,6 +9957,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/716JchoDA5L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1053172",
+        "price": "$15.29",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "754043",
@@ -9453,6 +10085,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "442475",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "327316",
         "price": "$17.99",
@@ -9572,6 +10212,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "767607",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": 4.2,
+        "reviews": 3
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1164621",
         "price": "$16.99",
@@ -9690,6 +10338,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71REsEUMrbL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "2758871",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": 4.6,
+        "reviews": 3
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "2698830",
@@ -9811,6 +10467,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "825771",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "740863",
         "price": "$16.99",
@@ -9929,6 +10593,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61wAVpxNN1L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "",
+        "price": "",
+        "status": "DIE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -10050,6 +10722,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "350814",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "375103",
         "price": "$15.99",
@@ -10168,6 +10848,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71Akpg1fflL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "250121",
+        "price": "$18.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "194586",
@@ -10288,6 +10976,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1497590",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1449787",
         "price": "$16.79",
@@ -10406,6 +11102,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71acteXL6bL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1818327",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1752953",
@@ -10526,6 +11230,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1709121",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1640326",
         "price": "$16.79",
@@ -10644,6 +11356,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71WCaqRHSEL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1670152",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1601305",
@@ -10764,6 +11484,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1579670",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1488708",
         "price": "$16.99",
@@ -10882,6 +11610,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71KtfVpO5UL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "532016",
+        "price": "$18.99",
+        "status": "LIVE",
+        "rating": 4.6,
+        "reviews": 3
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "575116",
@@ -11002,6 +11738,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1284244",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1186583",
         "price": "$13.99",
@@ -11120,6 +11864,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71pV52WrdAL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1631524",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1565272",
@@ -11240,6 +11992,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2078345",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 2
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2003438",
         "price": "$16.79",
@@ -11358,6 +12118,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/715s3vn4K+L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1328824",
+        "price": "$18.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 2
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1174651",
@@ -11478,6 +12246,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2068940",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1990696",
         "price": "$16.79",
@@ -11596,6 +12372,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71T7jyoGUCL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1536371",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1404100",
@@ -11716,6 +12500,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2975794",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2947457",
         "price": "$17.99",
@@ -11835,6 +12627,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2262750",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2183037",
         "price": "$16.79",
@@ -11953,6 +12753,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61n6VAzP2KL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1839532",
+        "price": "$14.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1771364",
@@ -12074,6 +12882,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "738496",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "899777",
         "price": "$16.99",
@@ -12192,6 +13008,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61Ss+NvEQbL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "170952",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "485986",
@@ -12312,6 +13136,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2348449",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2260426",
         "price": "$16.79",
@@ -12430,6 +13262,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71Xfjnxi3xL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1204539",
+        "price": "$14.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "944353",
@@ -12550,6 +13390,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2435659",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2289059",
         "price": "$16.79",
@@ -12668,6 +13516,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71EulKG87RL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "2000893",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1875165",
@@ -12788,6 +13644,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2428487",
+        "price": "$15.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2336005",
         "price": "$15.79",
@@ -12906,6 +13770,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71WJJmgXRfL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "3181309",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "3084633",
@@ -13026,6 +13898,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "3718999",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "3650331",
         "price": "$14.99",
@@ -13144,6 +14024,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71tBGwG3yBL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "3717312",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "3620076",
@@ -13264,6 +14152,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1638679",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1434683",
         "price": "$14.99",
@@ -13382,6 +14278,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71Q4UKnhMXL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1888585",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1805267",
@@ -13502,6 +14406,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "5529656",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "5516113",
         "price": "$17.99",
@@ -13620,6 +14532,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71r1EArBRBL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "2425999",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "2335844",
@@ -13740,6 +14660,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "3117686",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "3040921",
         "price": "$16.79",
@@ -13858,6 +14786,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71O+6rxiD3L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "331524",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "469871",
@@ -13978,6 +14914,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "3585115",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "3487612",
         "price": "$14.99",
@@ -14096,6 +15040,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71dO-B4GOQL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "2718813",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "2621150",
@@ -14216,6 +15168,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1801177",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1619072",
         "price": "$16.99",
@@ -14334,6 +15294,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71-JDtfNu6L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "454713",
+        "price": "$19.99",
+        "status": "LIVE",
+        "rating": 3.5,
+        "reviews": 3
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "333196",
@@ -14454,6 +15422,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2608880",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2525107",
         "price": "$16.79",
@@ -14572,6 +15548,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61CnnNBPg1L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "2613087",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "2528369",
@@ -14692,6 +15676,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2950640",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2713872",
         "price": "$16.79",
@@ -14810,6 +15802,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71oAxIaIjgL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "3657373",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "3570872",
@@ -14930,6 +15930,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "999619",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "729691",
         "price": "$17.99",
@@ -15048,6 +16056,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71+mQznfYbL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "957830",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "2641579",
@@ -15169,6 +16185,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "3343195",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "3240417",
         "price": "$14.99",
@@ -15287,6 +16311,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71J51J0oHOL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1240562",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "976040",
@@ -15407,6 +16439,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "6461312",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "6376879",
         "price": "$15.99",
@@ -15525,6 +16565,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71gWWIv-WfL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "6218096",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "6113695",
@@ -15645,6 +16693,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "5027471",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "4925121",
         "price": "$16.79",
@@ -15763,6 +16819,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/711xpffgFsL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "3137590",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "3028621",
@@ -15883,6 +16947,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "8181475",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "8055888",
         "price": "$15.99",
@@ -16002,6 +17074,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "3060498",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2904012",
         "price": "$14.99",
@@ -16120,6 +17200,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61YYg6rzYJL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1585631",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1380149",
@@ -16241,6 +17329,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1813991",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1652526",
         "price": "$14.99",
@@ -16361,6 +17457,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1916270",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1678368",
         "price": "$15.99",
@@ -16480,6 +17584,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "8296400",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "8180732",
         "price": "$14.99",
@@ -16598,6 +17710,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71DBcxfAWDL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "2765735",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "2681072",
@@ -16719,6 +17839,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1876126",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1724347",
         "price": "$16.79",
@@ -16839,6 +17967,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1944941",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1865459",
         "price": "$16.79",
@@ -16957,6 +18093,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71Hj8ih55DL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "8516673",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "8407206",
@@ -17077,6 +18221,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "3317199",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "3204512",
         "price": "$16.79",
@@ -17195,6 +18347,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/710x9dVsMWL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "2623223",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "2534058",
@@ -17316,6 +18476,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "5298278",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "5148263",
         "price": "$14.99",
@@ -17434,6 +18602,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71kaqLaZr4L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "2404371",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "2293335",
@@ -17554,6 +18730,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "4436031",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 2
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "4432408",
         "price": "$16.99",
@@ -17672,6 +18856,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71DO1KGgBlL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "3772401",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": 4.7,
+        "reviews": 4
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "3765080",
@@ -17792,6 +18984,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "4237553",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 2
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "4233252",
         "price": "$15.99",
@@ -17911,6 +19111,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2315883",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2211534",
         "price": "$14.99",
@@ -18005,6 +19213,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71uiWGd6KPL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "572046",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "447153",
@@ -18101,6 +19317,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -18196,6 +19420,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -18290,6 +19522,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71c1+Dax2kL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -18387,6 +19627,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -18482,6 +19730,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71FaXwdVyFL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -18579,6 +19835,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -18674,6 +19938,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71DOeXOD66L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -18771,6 +20043,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -18866,6 +20146,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71KMuW20VYL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -18963,6 +20251,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -19058,6 +20354,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/719Jreep0CL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -19155,6 +20459,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -19249,6 +20561,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71Jume+ZazL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -19345,6 +20665,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2195017",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1946997",
         "price": "$13.99",
@@ -19439,6 +20767,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71GbBq7YPfL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -19535,6 +20871,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -19629,6 +20973,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71wi+Eb-udL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -19725,6 +21077,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -19819,6 +21179,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71w921J7stL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -19915,6 +21283,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1121852",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "687943",
         "price": "$14.99",
@@ -20009,6 +21385,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71f-soxTzEL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1599930",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1425161",
@@ -20105,6 +21489,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1262413",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "789231",
         "price": "$14.99",
@@ -20199,6 +21591,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71reqgk1uTL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -20295,6 +21695,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2792402",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2649006",
         "price": "$14.99",
@@ -20389,6 +21797,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71fkz4xgPzL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1551858",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1295394",
@@ -20485,6 +21901,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "660661",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2152973",
         "price": "$14.99",
@@ -20580,6 +22004,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -20674,6 +22106,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61EuV44ajzL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -20771,6 +22211,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -20866,6 +22314,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71R3nHCTo9L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -20963,6 +22419,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -21058,6 +22522,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71uLGvKjfdL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -21155,6 +22627,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -21250,6 +22730,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71Vo8dgg9-L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -21347,6 +22835,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -21442,6 +22938,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71lYCtA5y2L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -21539,6 +23043,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -21633,6 +23145,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71aR2a2Qc4L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1805979",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1591611",
@@ -21730,6 +23250,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$13.99",
@@ -21824,6 +23352,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71yWDdKzs-L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1050089",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "995205",
@@ -21920,6 +23456,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "",
+        "price": "",
+        "status": "DIE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "",
         "price": "",
@@ -22014,6 +23558,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71JHIV5IZLL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -22112,6 +23664,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1899021",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1778563",
         "price": "$14.99",
@@ -22208,6 +23768,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -22302,6 +23870,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/715O8GJyyNL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -22398,6 +23974,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "",
+        "price": "",
+        "status": "DIE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "",
         "price": "",
@@ -22492,6 +24076,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71ssbzENMtL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -22588,6 +24180,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "632386",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "694429",
         "price": "$14.99",
@@ -22682,6 +24282,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/7129mkl49dL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -22778,6 +24386,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$13.99",
@@ -22873,6 +24489,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$13.99",
@@ -22967,6 +24591,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71kC-EqUf1L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "3937036",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "3818894",
@@ -23064,6 +24696,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -23158,6 +24798,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61T5jKvlcmL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "5444273",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "5292764",
@@ -23254,6 +24902,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -23348,6 +25004,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71Zqdb59tIL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -23444,6 +25108,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "",
+        "price": "",
+        "status": "DIE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "",
         "price": "",
@@ -23538,6 +25210,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71Xy2VfXZxL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -23634,6 +25314,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2793035",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2649671",
         "price": "$14.99",
@@ -23728,6 +25416,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61pdcUkktDL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -23824,6 +25520,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -23918,6 +25622,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71XbwgD4+aL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -24014,6 +25726,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$18.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$18.79",
@@ -24108,6 +25828,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71BV52k1LyL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$18.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -24204,6 +25932,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$16.79",
@@ -24298,6 +26034,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61YeXk2TQeL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -24394,6 +26138,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1988832",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1727722",
         "price": "$14.99",
@@ -24488,6 +26240,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71kOjoSftTL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -24584,6 +26344,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -24678,6 +26446,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/711CVWvYsNL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -24774,6 +26550,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1676180",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1570702",
         "price": "$14.99",
@@ -24868,6 +26652,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71KCbpwE6tL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1286418",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -24964,6 +26756,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -25059,6 +26859,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -25153,6 +26961,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71V4rUgSClL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -25250,6 +27066,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -25344,6 +27168,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71PKU-kXBOL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -25441,6 +27273,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -25535,6 +27375,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61hfPsrAGoL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -25632,6 +27480,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -25726,6 +27582,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71Z+fjEdRCL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -25822,6 +27686,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -25916,6 +27788,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71m0+Q7O+zL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -26012,6 +27892,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -26106,6 +27994,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/712uTR1IYJL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -26202,6 +28098,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -26296,6 +28200,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61rt1TE0YTL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -26393,6 +28305,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$17.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$17.79",
@@ -26487,6 +28407,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71v3VG2kbDL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "894455",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "757619",
@@ -26583,6 +28511,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1407250",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "941853",
         "price": "$14.99",
@@ -26677,6 +28613,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71gx0p5VENL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -26773,6 +28717,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -26867,6 +28819,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71IJ+c6q4fL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -26964,6 +28924,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -27058,6 +29026,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71MAnpe7PzL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -27155,6 +29131,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1040352",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "964049",
         "price": "$14.99",
@@ -27249,6 +29233,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71psINoGQnL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -27347,6 +29339,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2670120",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2506971",
         "price": "$14.99",
@@ -27444,6 +29444,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2203529",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2064726",
         "price": "$14.99",
@@ -27538,6 +29546,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71AhAPIBsuL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "617537",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "408775",
@@ -27634,6 +29650,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2906116",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2774583",
         "price": "$14.99",
@@ -27728,6 +29752,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61zQ0vpES9L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1285553",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -27824,6 +29856,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "776657",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "858205",
         "price": "$14.99",
@@ -27918,6 +29958,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71FjOoVK8IL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1089223",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "806619",
@@ -28014,6 +30062,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1330896",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "827703",
         "price": "$14.99",
@@ -28108,6 +30164,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61UqH0fjg-L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -28204,6 +30268,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2670074",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2506923",
         "price": "$14.99",
@@ -28298,6 +30370,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71-JK8FkL6L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "2790727",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "2649060",
@@ -28394,6 +30474,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -28488,6 +30576,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71PaAm2G68L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -28584,6 +30680,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -28678,6 +30782,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71JJcZBbl4L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -28775,6 +30887,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -28869,6 +30989,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71c1H5e+J3L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -28965,6 +31093,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -29059,6 +31195,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/714XfnLtZ1L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -29155,6 +31299,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "6499985",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "6343346",
         "price": "$14.99",
@@ -29249,6 +31401,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61yuNAiKjjL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -29345,6 +31505,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$15.99",
@@ -29439,6 +31607,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71In+jDrWiL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -29535,6 +31711,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$15.99",
@@ -29629,6 +31813,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71C5IlU9pOL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -29726,6 +31918,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$16.79",
@@ -29820,6 +32020,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61t+8sJ6kdL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -29916,6 +32124,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$16.79",
@@ -30010,6 +32226,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71MThN+ADnL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -30106,6 +32330,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "2794923",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "2592578",
         "price": "$16.79",
@@ -30200,6 +32432,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/613TseRcXYL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -30296,6 +32536,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$16.79",
@@ -30390,6 +32638,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/617IbToR2uL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -30486,6 +32742,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$16.79",
@@ -30580,6 +32844,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61ZBQq65yKL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$16.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -30676,6 +32948,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1046351",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "975083",
         "price": "$14.99",
@@ -30770,6 +33050,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61ffoI9KPML._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1452323",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1207100",
@@ -30866,6 +33154,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -30961,6 +33257,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -31055,6 +33359,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71ZCzSBb3ML._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -31152,6 +33464,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -31246,6 +33566,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71BrzHdJRGL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -31342,6 +33670,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1552304",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1295874",
         "price": "$15.99",
@@ -31436,6 +33772,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61Dz6oz0HPL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "1377503",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "933797",
@@ -31532,6 +33876,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -31626,6 +33978,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71vDpgpG-YL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -31722,6 +34082,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "",
+        "price": "",
+        "status": "DIE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "",
         "price": "",
@@ -31816,6 +34184,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61pAs026RBL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -31912,6 +34288,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$13.99",
@@ -32006,6 +34390,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71OgSDSIU-L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -32102,6 +34494,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -32196,6 +34596,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71eg1alew1L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -32292,6 +34700,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -32386,6 +34802,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61RyZrVGBiL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -32482,6 +34906,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -32577,6 +35009,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1490392",
+        "price": "$17.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1425971",
         "price": "$17.99",
@@ -32671,6 +35111,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71hY8Ctg5wL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$17.79",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -32768,6 +35216,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -32862,6 +35318,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71LUThn3cPL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -32959,6 +35423,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -33054,6 +35526,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1426828",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1178028",
         "price": "$14.99",
@@ -33117,6 +35597,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71EtkxPR0kL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -33182,6 +35670,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -33245,6 +35741,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71FjUXzcrRL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -33310,6 +35814,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -33374,6 +35886,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -33436,6 +35956,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71R40nQme2L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -33500,6 +36028,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1551272",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "1294742",
         "price": "$14.99",
@@ -33562,6 +36098,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71DNF2kCDYL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -33626,6 +36170,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -33688,6 +36240,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71kIKW7Qr5L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -33754,6 +36314,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -33816,6 +36384,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71ttJATEc+L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -33880,6 +36456,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -33942,6 +36526,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71pQ4SY0UvL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -34006,6 +36598,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -34068,6 +36668,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71tqCDDzOJL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -34132,6 +36740,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "4381406",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "4377636",
         "price": "$13.99",
@@ -34154,6 +36770,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71W0VYzAEgL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "763576",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "1056573",
@@ -34178,6 +36802,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "3854375",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": 3,
+        "reviews": 1
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "3847358",
         "price": "$13.99",
@@ -34200,6 +36832,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71cKfXDq2nL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "7011657",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "7011107",
@@ -34224,6 +36864,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "4594621",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "4592451",
         "price": "$15.99",
@@ -34246,6 +36894,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/614a6kxppeL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "6497738",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "6507301",
@@ -34270,6 +36926,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1228417",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "969339",
         "price": "$13.99",
@@ -34292,6 +36956,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71crnfzQ5ZL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "3614501",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "3606936",
@@ -34316,6 +36988,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "4308877",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "4304624",
         "price": "$15.99",
@@ -34338,6 +37018,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61Y7Xv2-h6L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "5765665",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "5764753",
@@ -34362,6 +37050,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "5139112",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "5139561",
         "price": "$13.99",
@@ -34384,6 +37080,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71Qg0Q5md9L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "7725016",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "7725215",
@@ -34408,6 +37112,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "4137943",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "4133112",
         "price": "$13.99",
@@ -34430,6 +37142,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71aEgBbJoIL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "6014891",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "6014913",
@@ -34454,6 +37174,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "8970386",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "8974610",
         "price": "$13.99",
@@ -34476,6 +37204,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71Fk9zQNXfL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "7827103",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "7827529",
@@ -34500,6 +37236,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "4465440",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "4382234",
         "price": "$15.99",
@@ -34522,6 +37266,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71eQLt1ckpL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "8909399",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "8911511",
@@ -34546,6 +37298,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "4901718",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "4901185",
         "price": "$13.99",
@@ -34568,6 +37328,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71VPl3cr0PL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "6584964",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "6584045",
@@ -34592,6 +37360,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "4234670",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "4230247",
         "price": "$13.99",
@@ -34614,6 +37390,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71h+i2B2UiL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "4170190",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "4166035",
@@ -34638,6 +37422,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "5562266",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": 1,
+        "reviews": 1
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "5562382",
         "price": "$15.99",
@@ -34660,6 +37452,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71qgMGWwHmL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -34684,6 +37484,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "3725968",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": 3,
+        "reviews": 1
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "3719282",
         "price": "$13.99",
@@ -34706,6 +37514,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61r+nlqxG4L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "6231325",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "6231171",
@@ -34730,6 +37546,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "5106963",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": 5,
+        "reviews": 1
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "5106972",
         "price": "$13.99",
@@ -34752,6 +37576,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61xA4YWpsHL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "3746829",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "3740821",
@@ -34776,6 +37608,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "3367909",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "3358985",
         "price": "$13.99",
@@ -34798,6 +37638,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71DNlMsUgVL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "5753650",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "5718921",
@@ -34822,6 +37670,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$13.99",
@@ -34844,6 +37700,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/717-yChTJyL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "6703680",
+        "price": "$16.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "6703049",
@@ -34868,6 +37732,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$13.99",
@@ -34890,6 +37762,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71a5Map0SKL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "7433000",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "7433976",
@@ -34914,6 +37794,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "3028538",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "3017017",
         "price": "$13.99",
@@ -34936,6 +37824,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71PXa9DnIvL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "4172165",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "4167661",
@@ -34960,6 +37856,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$13.99",
@@ -34982,6 +37886,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/711ZTeBtf8L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "6225040",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "6224839",
@@ -35006,6 +37918,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "3359492",
+        "price": "$15.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "3341581",
         "price": "$15.99",
@@ -35028,6 +37948,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71s+MARmJAL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "5107989",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "5108039",
@@ -35052,6 +37980,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "6250098",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "6250423",
         "price": "$13.99",
@@ -35074,6 +38010,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71fVPfsq7AL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "5344473",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "5344869",
@@ -35098,6 +38042,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "6231138",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "6230976",
         "price": "$13.99",
@@ -35120,6 +38072,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71mTSpg9GFL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -35144,6 +38104,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "7464025",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "7465777",
         "price": "$13.99",
@@ -35166,6 +38134,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71-5CM3enIL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "5078106",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "5078122",
@@ -35190,6 +38166,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "5317748",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "5318228",
         "price": "$13.99",
@@ -35212,6 +38196,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71BdQLEap1L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "5097545",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "5098170",
@@ -35236,6 +38228,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$13.99",
@@ -35258,6 +38258,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71Ug3CXdkLL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "5911217",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "5910792",
@@ -35282,6 +38290,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "8603841",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "8605437",
         "price": "$13.99",
@@ -35304,6 +38320,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61Z9uTeqnlL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "11137437",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "11139771",
@@ -35328,6 +38352,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "7419496",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "7420419",
         "price": "$13.99",
@@ -35350,6 +38382,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71z9tLGO4rL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "7426170",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "7427077",
@@ -35374,6 +38414,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "6729341",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "6729348",
         "price": "$13.99",
@@ -35396,6 +38444,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71IQZXYwSQL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "6260599",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "6261087",
@@ -35420,6 +38476,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "6218007",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "6218477",
         "price": "$13.99",
@@ -35442,6 +38506,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71Ki3JWulQL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "4923374",
+        "price": "$13.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "4923435",
@@ -35466,6 +38538,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$31.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$31.99",
@@ -35488,6 +38568,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71BFwxp5Z8L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$29.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -35512,6 +38600,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$31.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$31.99",
@@ -35534,6 +38630,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71aiszZFwHL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$31.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -35558,6 +38662,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "11219008",
+        "price": "$32.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "11221492",
         "price": "$32.99",
@@ -35580,6 +38692,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71gTuRj5vlL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$29.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -35604,6 +38724,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -35626,6 +38754,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71JmgINB4AL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -35650,6 +38786,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -35672,6 +38816,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71REvVBe41L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -35696,6 +38848,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -35718,6 +38878,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71iVQval5TL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -35742,6 +38910,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -35764,6 +38940,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61pFN1mURAL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -35788,6 +38972,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -35810,6 +39002,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71Z3xD3WqpL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -35834,6 +39034,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -35856,6 +39064,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71bFytVkWPL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -35880,6 +39096,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "1282392",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -35902,6 +39126,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71vL8cDMbZL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -35926,6 +39158,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -35948,6 +39188,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71Haav3dezL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -35972,6 +39220,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -35994,6 +39250,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71ShiU4ZsNL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -36018,6 +39282,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -36040,6 +39312,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/718gifAZOLL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -36064,6 +39344,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -36086,6 +39374,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71Fpf8ddxJL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -36110,6 +39406,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -36132,6 +39436,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71NRJ9IXl5L._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -36156,6 +39468,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -36178,6 +39498,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/717QEDIknXL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -36202,6 +39530,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -36224,6 +39560,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/715qxowW3WL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -36248,6 +39592,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -36270,6 +39622,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71RIeOSfaTL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -36294,6 +39654,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -36316,6 +39684,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61Q4C0Ck+yL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -36340,6 +39716,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -36362,6 +39746,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71gas-yOzSL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -36386,6 +39778,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -36408,6 +39808,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71VBeZH8RnL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -36432,6 +39840,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -36454,6 +39870,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71Rc4x6UzAL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -36478,6 +39902,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -36500,6 +39932,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71-Yt0gyuIL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -36524,6 +39964,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -36546,6 +39994,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/716E6u2lpqL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -36570,6 +40026,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -36592,6 +40056,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61ip9mu4QsL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
@@ -36616,6 +40088,14 @@
     "flag": 1,
     "detail": [
       {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
+      {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
         "price": "$14.99",
@@ -36638,6 +40118,14 @@
     "thumbnail": "https://m.media-amazon.com/images/I/71rVf6f4XdL._AC_UL320_.jpg",
     "flag": 1,
     "detail": [
+      {
+        "timecrawl": "2025-07-12",
+        "rank": "N/A",
+        "price": "$14.99",
+        "status": "LIVE",
+        "rating": "",
+        "reviews": ""
+      },
       {
         "timecrawl": "2025-07-11",
         "rank": "N/A",
