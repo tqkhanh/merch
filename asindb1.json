@@ -9533,5 +9533,89 @@
     "rating": "N/A",
     "reviews": "N/A",
     "price": "$13.38"
+  },
+  {
+    "asin": "B0FRT2X412",
+    "account": 23,
+    "bestseller month": [
+      "oct"
+    ],
+    "status": "LIVE",
+    "title": "Floral Fall Highland Cow Ghost Boho Pumpkin Halloween T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71Zc8s99AFL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Highland-Cow-Pumpkin-Halloween-T-Shirt/dp/B0FRT2X412/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$13.99"
+  },
+  {
+    "asin": "B0FRSXQLT2",
+    "account": 23,
+    "bestseller month": [
+      "oct"
+    ],
+    "status": "LIVE",
+    "title": "Fall Book Pumpkin Halloween Bookish Bookworm Librarian T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71YmxCh+0AL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Book-Pumpkin-Halloween-Bookworm-Librarian/dp/B0FRSXQLT2/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$14.99"
+  },
+  {
+    "asin": "B0FRSXC621",
+    "account": 23,
+    "bestseller month": [
+      "oct"
+    ],
+    "status": "LIVE",
+    "title": "Lightning Teacher Ghost Boo Pumpkin Spooky Teacher Halloween T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71t5Xk-008L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Lightning-Teacher-Pumpkin-Halloween-T-Shirt/dp/B0FRSXC621/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$13.99"
+  },
+  {
+    "asin": "B0FRT1FG7N",
+    "account": 23,
+    "bestseller month": [
+      "oct"
+    ],
+    "status": "LIVE",
+    "title": "Retro Blue Denim Ghost Floral Patchwork Cute Boo Halloween T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71PG4ubhqHL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Ghost-Floral-Patchwork-Halloween-T-Shirt/dp/B0FRT1FG7N/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$13.99"
+  },
+  {
+    "asin": "B0FS1NTDXW",
+    "account": 23,
+    "bestseller month": [
+      "evergreen"
+    ],
+    "status": "LIVE",
+    "title": "Meme 67 Six Seven T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71R6QKTKBhL._AC_UY218_.jpg",
+    "link": "https://www.amazon.com/Meme-67-Six-Seven-T-Shirt/dp/B0FS1NTDXW/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$14.99"
+  },
+  {
+    "asin": "B0FS1P67XS",
+    "account": 23,
+    "bestseller month": [
+      "evergreen"
+    ],
+    "status": "LIVE",
+    "title": "67 Six Seven Meme T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71+sDgKuyoL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/67-Six-Seven-Meme-T-Shirt/dp/B0FS1P67XS/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$14.99"
   }
 ]
