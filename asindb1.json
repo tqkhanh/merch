@@ -9617,5 +9617,47 @@
     "rating": "N/A",
     "reviews": "N/A",
     "price": "$14.99"
+  },
+  {
+    "asin": "B0FS83B4XG",
+    "account": 23,
+    "bestseller month": [
+      "oct"
+    ],
+    "status": "LIVE",
+    "title": "Funny Ghost Black Cat Spooky Season Halloween T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71hGtc2GK3L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Cat-Spooky-Season-Halloween-T-Shirt/dp/B0FS83B4XG/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$13.99"
+  },
+  {
+    "asin": "B0FS82KLYW",
+    "account": 23,
+    "bestseller month": [
+      "oct"
+    ],
+    "status": "LIVE",
+    "title": "Boston Terrier Ghost Halloween Pumpkin Fall T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/717cqkYM-PL._AC_UY218_.jpg",
+    "link": "https://www.amazon.com/Boston-Terrier-Halloween-Pumpkin-T-Shirt/dp/B0FS82KLYW/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$15.99"
+  },
+  {
+    "asin": "B0FS8258CN",
+    "account": 23,
+    "bestseller month": [
+      "oct"
+    ],
+    "status": "LIVE",
+    "title": "Checkered Halloween Pumpkin Ghost T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71GYFhZfpnL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Checkered-Halloween-Pumpkin-Ghost-T-Shirt/dp/B0FS8258CN/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$13.99"
   }
 ]
