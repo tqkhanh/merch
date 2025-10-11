@@ -9883,5 +9883,75 @@
     "rating": "N/A",
     "reviews": "N/A",
     "price": "$14.99"
+  },
+  {
+    "asin": "B0FVSCSY44",
+    "account": 19,
+    "bestseller month": [
+      "oct"
+    ],
+    "status": "LIVE",
+    "title": "Life is Scary Without Jesus Christian Halloween T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71V0UCjf8qL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/dp/B0FVSCSY44/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$14.99"
+  },
+  {
+    "asin": "B0FVS7HXKT",
+    "account": 20,
+    "bestseller month": [
+      "evergreen"
+    ],
+    "status": "LIVE",
+    "title": "Funny Leaf Blower Fall Costume Couple Halloween Matching T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71fy-Dy-zhL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/dp/B0FVS7HXKT/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$14.99"
+  },
+  {
+    "asin": "B0FVSCS7YP",
+    "account": 10,
+    "bestseller month": [
+      "evergreen"
+    ],
+    "status": "LIVE",
+    "title": "Funny Leaf Blower Fall Costume Couple Halloween Skeleton T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71Ubz5c0hDL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/dp/B0FVSCS7YP/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$14.99"
+  },
+  {
+    "asin": "B0FVS9DGGS",
+    "account": 10,
+    "bestseller month": [
+      "evergreen"
+    ],
+    "status": "LIVE",
+    "title": "I Need A Leaf Blower But for People - Funny Anti-Social T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71F3-AFiW-L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/dp/B0FVS9DGGS/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$14.99"
+  },
+  {
+    "asin": "B0FVFZGCJJ",
+    "account": 10,
+    "bestseller month": [
+      "evergreen"
+    ],
+    "status": "LIVE",
+    "title": "Funny Leaf Blower Fall Costume Couple Halloween Matching T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71vFHmHyO5L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Leaf-Blower-Fall-Halloween-Matching/dp/B0FVFZGCJJ/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$14.99"
   }
 ]
