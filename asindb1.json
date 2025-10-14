@@ -9953,5 +9953,61 @@
     "rating": "N/A",
     "reviews": "N/A",
     "price": "$14.99"
+  },
+  {
+    "asin": "B0FTZ9TZ99",
+    "account": 24,
+    "bestseller month": [
+      "oct"
+    ],
+    "status": "LIVE",
+    "title": "Bruh in October We Wear Pink Breast Cancer Toddler Boys Kids T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71JKMhYetCL._AC_UY218_.jpg",
+    "link": "https://www.amazon.com/Pink-Breast-Cancer-Boys-Kids/dp/B0FTZ9TZ99/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$16.99"
+  },
+  {
+    "asin": "B0FVYF4KHB",
+    "account": 17,
+    "bestseller month": [
+      "nov"
+    ],
+    "status": "LIVE",
+    "title": "Funny Portland Frog Shirt Meme Retro Vintage Style Gift T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71RonIP-6aL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/dp/B0FVYF4KHB/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$15.99"
+  },
+  {
+    "asin": "B0FVYFFMYZ",
+    "account": 4,
+    "bestseller month": [
+      "nov"
+    ],
+    "status": "LIVE",
+    "title": "Funny Portland Frog Meme Retro Vintage Style Gift T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/61sJlziBWnL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/dp/B0FVYFFMYZ/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$15.99"
+  },
+  {
+    "asin": "B0FVYHV24K",
+    "account": 15,
+    "bestseller month": [
+      "nov"
+    ],
+    "status": "LIVE",
+    "title": "Retro Portland Frog Vintage T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/81+1BCkLKYL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/dp/B0FVYHV24K/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$15.99"
   }
 ]
