@@ -10009,5 +10009,75 @@
     "rating": "N/A",
     "reviews": "N/A",
     "price": "$15.99"
+  },
+  {
+    "asin": "B0FW81YBK7",
+    "account": 24,
+    "bestseller month": [
+      "nov"
+    ],
+    "status": "LIVE",
+    "title": "Vintage Portland Frog Meme Retro T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71FL0lDRuFL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Vintage-Portland-Frog-Retro-T-Shirt/dp/B0FW81YBK7/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$15.99"
+  },
+  {
+    "asin": "B0FW5MDMGS",
+    "account": 9,
+    "bestseller month": [
+      "nov"
+    ],
+    "status": "LIVE",
+    "title": "Funny Portland Frog Meme Vintage Retro T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/61PGfhb0OzL._AC_UY218_.jpg",
+    "link": "https://www.amazon.com/Funny-Portland-Meme-Vintage-T-Shirt/dp/B0FW5MDMGS/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$15.99"
+  },
+  {
+    "asin": "B0FW5PS52Q",
+    "account": 19,
+    "bestseller month": [
+      "nov"
+    ],
+    "status": "LIVE",
+    "title": "Meme Portland Frog Vintage Retro Funny T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71Q4jz9FapL._AC_UY218_.jpg",
+    "link": "https://www.amazon.com/Portland-Vintage-Retro-Funny-T-Shirt/dp/B0FW5PS52Q/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$15.99"
+  },
+  {
+    "asin": "B0FW5LJPPK",
+    "account": 14,
+    "bestseller month": [
+      "nov"
+    ],
+    "status": "LIVE",
+    "title": "Meme Frog Vintage Retro Funny T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/614HR+hM3jL._AC_UY218_.jpg",
+    "link": "https://www.amazon.com/Frog-Vintage-Retro-Funny-T-Shirt/dp/B0FW5LJPPK/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$15.99"
+  },
+  {
+    "asin": "B0FVVQ9W22",
+    "account": 10,
+    "bestseller month": [
+      "nov"
+    ],
+    "status": "LIVE",
+    "title": "Funny Leaf Blower Fall Costume Couple Halloween Matching Pullover Hoodie",
+    "thumbnail": "https://m.media-amazon.com/images/I/71ahyAVU-jL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Leaf-Blower-Fall-Halloween-Matching/dp/B0FVVQ9W22/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$31.99"
   }
 ]
