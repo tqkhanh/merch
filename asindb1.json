@@ -8159,7 +8159,47 @@
     "rating": "N/A",
     "reviews": "N/A",
     "price": "$31.99"
+  },
+  {
+    "asin": "B0FWXXC813",
+    "account": 19,
+    "bestseller month": [
+      "nov"
+    ],
+    "status": "LIVE",
+    "title": "Meme Portland Frog Vintage Funny T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/61yBMdgTPTL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/dp/B0FWXXC813/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$15.99"
+  },
+  {
+    "asin": "B0FWXWS6TX",
+    "account": 14,
+    "bestseller month": [
+      "nov"
+    ],
+    "status": "LIVE",
+    "title": "Funny Portland Frog Vintage Meme T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71z2YvmWfzL._AC_UY218_.jpg",
+    "link": "https://www.amazon.com/dp/B0FWXWS6TX/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$15.99"
+  },
+  {
+    "asin": "B0FWY5TVBQ",
+    "account": 9,
+    "bestseller month": [
+      "nov"
+    ],
+    "status": "LIVE",
+    "title": "Funny Aunt Tifa Meme Retro Vintage T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71o0MIXIeQL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/dp/B0FWY5TVBQ/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$15.99"
   }
 ]
-
-
