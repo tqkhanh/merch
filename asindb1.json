@@ -7243,5 +7243,89 @@
     "rating": "N/A",
     "reviews": "N/A",
     "price": "$15.99"
+  }.
+{
+    "asin": "B0FZ43YPZ9",
+    "account": 6,
+    "bestseller month": [
+      "dec"
+    ],
+    "status": "LIVE",
+    "title": "Christmas Tree and Cat Cute Christmas Cat Lover T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/718ppb2aboL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Christmas-Tree-Cat-Lover-T-Shirt/dp/B0FZ43YPZ9/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$14.99"
+  },
+  {
+    "asin": "B0FZ42XYWR",
+    "account": 24,
+    "bestseller month": [
+      "dec"
+    ],
+    "status": "LIVE",
+    "title": "Retro Religious Christmas The King is Born Christian T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/613qmZ-joVL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Retro-Religious-Christmas-Christian-T-Shirt/dp/B0FZ42XYWR/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$14.99"
+  },
+  {
+    "asin": "B0FZ4F85BB",
+    "account": 18,
+    "bestseller month": [
+      "dec"
+    ],
+    "status": "LIVE",
+    "title": "Jesus is The Reason for The Season Christian Christmas T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71Y2+H6LWdL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Jesus-Reason-Christian-Christmas-T-Shirt/dp/B0FZ4F85BB/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$14.99"
+  },
+  {
+    "asin": "B0FZ4BBW9D",
+    "account": 26,
+    "bestseller month": [
+      "dec"
+    ],
+    "status": "LIVE",
+    "title": "Feeling 67 6 7 Six Seven Viral Meme Christmas T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/61RjXGbNAOL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Feeling-Seven-Viral-Christmas-T-Shirt/dp/B0FZ4BBW9D/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$14.99"
+  },
+  {
+    "asin": "B0FZKF6G9F",
+    "account": 6,
+    "bestseller month": [
+      "dec"
+    ],
+    "status": "LIVE",
+    "title": "Christmas Naughty or Nice Six Seven 6 7 67 Adult Humor T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/61kUWvzXASL._AC_UY218_.jpg",
+    "link": "https://www.amazon.com/dp/B0FZKF6G9F/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$14.99"
+  },
+  {
+    "asin": "B0FZK3ZJP1",
+    "account": 26,
+    "bestseller month": [
+      "dec"
+    ],
+    "status": "LIVE",
+    "title": "Green Bean Casserole Funny Thanksgiving T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/61Qv10JdZrL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Green-Casserole-Funny-Thanksgiving-T-Shirt/dp/B0FZK3ZJP1/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$14.99"
   }
 ]
