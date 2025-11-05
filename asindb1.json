@@ -4267,20 +4267,6 @@
     "price": "$14.99"
   },
   {
-    "asin": "B0FHQHQ3WN",
-    "account": 13,
-    "bestseller month": [
-      "oct"
-    ],
-    "status": "LIVE",
-    "title": "Sorry I'm Booked Funny Bookworm Book Lover Ghost Halloween T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/71+58dwtSbL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/Bookworm-Book-Lover-Halloween-T-Shirt/dp/B0FHQHQ3WN/",
-    "rating": "N/A",
-    "reviews": "N/A",
-    "price": "$14.99"
-  },
-  {
     "asin": "B0FHSKJS55",
     "account": 13,
     "bestseller month": [
@@ -7329,3 +7315,4 @@
     "price": "$14.99"
   }
 ]
+
