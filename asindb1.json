@@ -1292,21 +1292,6 @@
     "price": "$14.99"
   },
   {
-    "asin": "B0F7LGXPGH",
-    "account": 10,
-    "bestseller month": [
-      "jun",
-      "evergreen"
-    ],
-    "status": "LIVE",
-    "title": "Mens Pawdre Cat Dad Cute Fur Papa Fathers Day Pet Paw Daddy T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/61jrbn+T6XL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/Pawdre-Cat-Fathers-Daddy-T-Shirt/dp/B0F7LGXPGH/",
-    "rating": "N/A",
-    "reviews": "N/A",
-    "price": "$16.79"
-  },
-  {
     "asin": "B0FBLB5R7R",
     "account": 11,
     "bestseller month": [
@@ -4981,20 +4966,6 @@
     "price": "$14.99"
   },
   {
-    "asin": "B0FNNHLQ4V",
-    "account": 10,
-    "bestseller month": [
-      "oct"
-    ],
-    "status": "LIVE",
-    "title": "Retro Fall in Love with Learning Autumn Pumpkin Teacher T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/711Z7vSJlFL._AC_UY218_.jpg",
-    "link": "https://www.amazon.com/Fall-Learning-Autumn-Pumpkin-Teacher/dp/B0FNNHLQ4V/",
-    "rating": "N/A",
-    "reviews": "N/A",
-    "price": "$14.99"
-  },
-  {
     "asin": "B0FNNFYQ2J",
     "account": 13,
     "bestseller month": [
@@ -6269,34 +6240,6 @@
     "price": "$14.99"
   },
   {
-    "asin": "B0FVSCS7YP",
-    "account": 10,
-    "bestseller month": [
-      "evergreen"
-    ],
-    "status": "LIVE",
-    "title": "Funny Leaf Blower Fall Costume Couple Halloween Skeleton T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/71Ubz5c0hDL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/dp/B0FVSCS7YP/",
-    "rating": "N/A",
-    "reviews": "N/A",
-    "price": "$14.99"
-  },
-  {
-    "asin": "B0FVS9DGGS",
-    "account": 10,
-    "bestseller month": [
-      "evergreen"
-    ],
-    "status": "LIVE",
-    "title": "I Need A Leaf Blower But for People - Funny Anti-Social T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/71F3-AFiW-L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/dp/B0FVS9DGGS/",
-    "rating": "N/A",
-    "reviews": "N/A",
-    "price": "$14.99"
-  },
-  {
     "asin": "B0FVFZGCJJ",
     "account": 10,
     "bestseller month": [
@@ -6990,3 +6933,4 @@
     "price": "$14.99"
   }
 ]
+
