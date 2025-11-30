@@ -6779,20 +6779,6 @@
     "price": "$15.99"
   },
   {
-    "asin": "B0G2CQKNPG",
-    "account": 8,
-    "bestseller month": [
-      "dec"
-    ],
-    "status": "LIVE",
-    "title": "Funny I was 6 Now I'm 7 Meme 67 Trend 7th Birthday T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/61g4pO3sVtL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/Funny-Meme-Trend-Birthday-T-Shirt/dp/B0G2CQKNPG/",
-    "rating": "N/A",
-    "reviews": "N/A",
-    "price": "$14.99"
-  },
-  {
     "asin": "B0G2CJN4RV",
     "account": 8,
     "bestseller month": [
@@ -7115,20 +7101,6 @@
     "price": "$14.99"
   },
   {
-    "asin": "B0G3M2F7X8",
-    "account": 20,
-    "bestseller month": [
-      "dec"
-    ],
-    "status": "LIVE",
-    "title": "Soccer 67 Six Seven Funny Gen Alpha Meme T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/71ngFMR9AQL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/dp/B0G3M2F7X8/",
-    "rating": "N/A",
-    "reviews": "N/A",
-    "price": "$14.99"
-  },
-  {
     "asin": "B0G3M1XYQ5",
     "account": 20,
     "bestseller month": [
@@ -7367,3 +7339,4 @@
     "price": "$14.99"
   }
 ]
+
