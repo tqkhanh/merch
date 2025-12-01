@@ -7337,6 +7337,89 @@
     "rating": "N/A",
     "reviews": "N/A",
     "price": "$14.99"
+  },
+  {
+    "asin": "B0G49VGD1G",
+    "account": 2,
+    "bestseller month": [
+      "dec"
+    ],
+    "status": "LIVE",
+    "title": "Mele Kalikimaka Hawaiian Island Beach Christmas T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71CQ52MAvsL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Mele-Kalikimaka-Hawaiian-Christmas-T-Shirt/dp/B0G49VGD1G/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$18.99"
+  },
+  {
+    "asin": "B0G49LPM63",
+    "account": 2,
+    "bestseller month": [
+      "dec"
+    ],
+    "status": "LIVE",
+    "title": "Kid’s 67 Six Seven 6 7 Trendy T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/61wN8yt9oGL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Kids-Six-Seven-Trendy-T-Shirt/dp/B0G49LPM63/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$18.99"
+  },
+  {
+    "asin": "B0G4B4Z839",
+    "account": 2,
+    "bestseller month": [
+      "dec"
+    ],
+    "status": "LIVE",
+    "title": "Toddler Construction Christmas T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71x977wlVvL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Dump-Truck-Christmas-Shirt-kids/dp/B0G4B4Z839/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$18.99"
+  },
+  {
+    "asin": "B0G49S8R6S",
+    "account": 2,
+    "bestseller month": [
+      "dec"
+    ],
+    "status": "LIVE",
+    "title": "6 7 Trendy Mom 67 Teacher Team Funny Viral Phrase Meme T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/61I3pNC7OFL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Mom-67-Teacher-Funny-Meme/dp/B0G49S8R6S/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$18.99"
+  },
+  {
+    "asin": "B0G49RTF4M",
+    "account": 2,
+    "bestseller month": [
+      "dec"
+    ],
+    "status": "LIVE",
+    "title": "The Reason for The Season Trendy Faith Bible Verse Christmas T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71oQtH4lUlL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Reason-Season-Trendy-Christmas-T-Shirt/dp/B0G49RTF4M/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$18.99"
+  },
+  {
+    "asin": "B0G49R14VF",
+    "account": 2,
+    "bestseller month": [
+      "dec"
+    ],
+    "status": "LIVE",
+    "title": "The Reason for The Season Trendy Faith Christmas Bible Verse T-Shirt",
+    "thumbnail": "https://m.media-amazon.com/images/I/71x2153+rQL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com/Reason-Season-Trendy-Christmas-T-Shirt/dp/B0G49R14VF/",
+    "rating": "N/A",
+    "reviews": "N/A",
+    "price": "$18.99"
   }
 ]
-
