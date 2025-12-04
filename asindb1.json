@@ -1868,20 +1868,6 @@
     "price": "$15.99"
   },
   {
-    "asin": "B0DLWQ2C45",
-    "account": 9,
-    "bestseller month": [
-      "dec"
-    ],
-    "status": "LIVE",
-    "title": "Cute Santa With Sunglasses Christmas Lights Pink Santa T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/B1pppR4gVKL._CLa%7C2140%2C2000%7CA1%2BXWuIeuzL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_SX466_.png",
-    "link": "https://www.amazon.com/dp/B0DLWQ2C45/",
-    "rating": 3,
-    "reviews": 3,
-    "price": "$17.99"
-  },
-  {
     "asin": "B0DLH9F2F3",
     "account": 11,
     "bestseller month": [
@@ -3044,20 +3030,6 @@
     "rating": "N/A",
     "reviews": "N/A",
     "price": "$31.99"
-  },
-  {
-    "asin": "B0DP1N941C",
-    "account": 9,
-    "bestseller month": [
-      "dec"
-    ],
-    "status": "LIVE",
-    "title": "Cute Santa With Sunglasses Christmas Lights Pink Santa Sweatshirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/714NcAcZlkL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/Santa-Sunglasses-Christmas-Lights-Sweatshirt/dp/B0DP1N941C/",
-    "rating": "N/A",
-    "reviews": "N/A",
-    "price": "$32.99"
   },
   {
     "asin": "B0DP1QC554",
@@ -7059,48 +7031,6 @@
     "price": "$14.99"
   },
   {
-    "asin": "B0G3M3H9SM",
-    "account": 14,
-    "bestseller month": [
-      "dec"
-    ],
-    "status": "LIVE",
-    "title": "Meme Quiet Piggy T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/619pSz+56ML._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/dp/B0G3M3H9SM/",
-    "rating": "N/A",
-    "reviews": "N/A",
-    "price": "$14.99"
-  },
-  {
-    "asin": "B0G3LX4ZR6",
-    "account": 22,
-    "bestseller month": [
-      "dec"
-    ],
-    "status": "LIVE",
-    "title": "Funny Quiet Piggy T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/71a-DKix19L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/dp/B0G3LX4ZR6/",
-    "rating": "N/A",
-    "reviews": "N/A",
-    "price": "$14.99"
-  },
-  {
-    "asin": "B0G3LXTCF9",
-    "account": 10,
-    "bestseller month": [
-      "dec"
-    ],
-    "status": "LIVE",
-    "title": "Meme Quiet Piggy T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/61jXgO8MpeL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/dp/B0G3LXTCF9/",
-    "rating": "N/A",
-    "reviews": "N/A",
-    "price": "$14.99"
-  },
-  {
     "asin": "B0G3M1XYQ5",
     "account": 20,
     "bestseller month": [
@@ -7423,3 +7353,4 @@
     "price": "$18.99"
   }
 ]
+
