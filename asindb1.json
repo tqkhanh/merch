@@ -5442,20 +5442,6 @@
     "price": "$14.99"
   },
   {
-    "asin": "B0FPCZ5RKM",
-    "account": 10,
-    "bestseller month": [
-      "oct"
-    ],
-    "status": "LIVE",
-    "title": "Boo Ghost Goose Halloween Men Women Girls Kids T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/71do5NAavZL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/Boo-Ghost-Goose-Halloween-T-Shirt/dp/B0FPCZ5RKM/",
-    "rating": "N/A",
-    "reviews": "N/A",
-    "price": "$14.99"
-  },
-  {
     "asin": "B0FPCZ2MFD",
     "account": 10,
     "bestseller month": [
@@ -7339,3 +7325,4 @@
     "price": "$14.99"
   }
 ]
+
