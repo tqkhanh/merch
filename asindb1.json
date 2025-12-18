@@ -441,20 +441,6 @@
     "price": "$14.99"
   },
   {
-    "asin": "B0FDXSJ4F3",
-    "account": 13,
-    "bestseller month": [
-      "jul"
-    ],
-    "status": "LIVE",
-    "title": "Funny 4th Of July Patriotic Bad Day To Be A Hotdog T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/71rb2TOBtWL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/Patriotic-Bad-Day-Be-Hotdog/dp/B0FDXSJ4F3/",
-    "rating": "N/A",
-    "reviews": "N/A",
-    "price": "$18.79"
-  },
-  {
     "asin": "B0FF2GGF8P",
     "account": 13,
     "bestseller month": [
@@ -7919,3 +7905,4 @@
     "price": "$14.99"
   }
 ]
+
