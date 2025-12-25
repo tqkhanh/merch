@@ -8650,20 +8650,6 @@
     "price": "$14.99"
   },
   {
-    "asin": "B0GC97Z7XR",
-    "account": 9,
-    "bestseller month": [
-      "evergreen"
-    ],
-    "status": "LIVE",
-    "title": "Never Underestimate an Old Man with A Pickleball Paddle T-Shirt",
-    "thumbnail": "https://m.media-amazon.com/images/I/71VArkeCF6L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com/Never-Underestimate-Pickleball-Paddle-T-Shirt/dp/B0GC97Z7XR/",
-    "rating": "N/A",
-    "reviews": "N/A",
-    "price": "$14.99"
-  },
-  {
     "asin": "B0GCH65NJQ",
     "account": 20,
     "bestseller month": [
@@ -8863,3 +8849,4 @@
     "price": "$14.99"
   }
 ]
+
